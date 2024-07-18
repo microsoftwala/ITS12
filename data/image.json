@@ -1,0 +1,56 @@
+[
+      {
+            "id": 1,
+            "title": "Card One",
+            "imageUrl": "https://images.unsplash.com/photo-1503457574462-bd27054394c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTkwMzB8&ixlib=rb-4.0.3&q=85",
+            "price": 500
+      },
+      {
+            "id": 2,
+            "title": "Card Two",
+            "imageUrl": "https://images.unsplash.com/photo-1628152184584-1bec8d3a3cbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 700
+      },
+      {
+            "id": 3,
+            "title": "Card Three",
+            "imageUrl": "https://images.unsplash.com/photo-1531210194434-2bc4d24185a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 600
+      },
+      {
+            "id": 4,
+            "title": "Card Four",
+            "imageUrl": "https://images.unsplash.com/photo-1503457574462-bd27054394c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTkwMzB8&ixlib=rb-4.0.3&q=85",
+            "price": 100
+      },
+      {
+            "id": 5,
+            "title": "Card Five",
+            "imageUrl": "https://images.unsplash.com/photo-1628152184584-1bec8d3a3cbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 900
+      },
+      {
+            "id": 6,
+            "title": "Card Six",
+            "imageUrl": "https://images.unsplash.com/photo-1531210194434-2bc4d24185a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 800
+      },
+      {
+            "id": 7,
+            "title": "Card Seven",
+            "imageUrl": "https://its12-photos.s3.amazonaws.com/products/WhatsApp Image 2023-07-24 at 4.32.56 PM.jpeg",
+            "price": 500
+      },
+      {
+            "id": 8,
+            "title": "Card Eight",
+            "imageUrl": "https://images.unsplash.com/photo-1628152184584-1bec8d3a3cbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 700
+      },
+      {
+            "id": 9,
+            "title": "Card Nine",
+            "imageUrl": "https://images.unsplash.com/photo-1531210194434-2bc4d24185a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4MTk2MTJ8&ixlib=rb-4.0.3&q=85",
+            "price": 600
+      }
+]
